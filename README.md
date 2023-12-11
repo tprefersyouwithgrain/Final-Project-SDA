@@ -1,4 +1,4 @@
-# Final-Project-SDA (Optimalisasi Dsitribusi Layanan Listrik Menggunakan Algoritma Prim)
+# Final-Project-SDA (Optimalisasi Distribusi Layanan Listrik Menggunakan Algoritma Prim)
 
 Proyek ini disusun untuk memenuhi tugas akhir mata kuliah Struktur Data dan Algoritma 
 
